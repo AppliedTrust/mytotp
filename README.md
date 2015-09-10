@@ -1,3 +1,5 @@
+![Insecure](https://img.shields.io/badge/security_status-INSECURE-ff0066.svg) ![Unsupported](https://img.shields.io/badge/development_status-unsupported-red.svg) ![License BSDv2](https://img.shields.io/badge/license-BSDv2-brightgreen.svg)
+
 github.com/appliedtrust/mytotp
 ====
 MyTOTP is a simple Go client for the Time-Based One Time Password (TOTP) protocol.
